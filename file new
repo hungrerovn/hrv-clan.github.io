@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giới thiệu bản thân</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Xin chào, tôi là hungrero_vn</h1>
+    <img src="https://cdn.discordapp.com/avatars/1103717241268207636/a8470cacf512a44ce2426dc3d2f78e5d.png?size=1024" alt="">
+  </header>
+
+  <main>
+    <section>
+      <h2>Về tôi?</h2>
+      <p>tôi là một người bình thường rất thích code bot chỉ thế thôi!</p>
+    </section>
+
+    <section>
+      <h2>Liên hệ với tôi</h2>
+      <ul>
+        <li>Email: hungrero_vn@gmail.com</li>
+        <li>Discord: hungrero_vn</li>
+        <li>đó là thông tin liên hệ cơ bản!</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Dự án của tôi</h2>
+      <p>tạo ra một bot giúp mọi người quản lý máy chủ hay chỉ đơn giản là một bot economy fun giúp tạo niềm vui cho máy chủ của bạn!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Hrv Clan Team.</p>
+  </footer>
+</body>
+</html>
